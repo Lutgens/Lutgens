@@ -24,5 +24,5 @@
   Apaixonado por tecnologia, estudo constantemente novas tecnologias e frameworks, meus estudos tem como base programação e me tornando especialista em RPA, vários desafios feitos   diariamente, no meu Linkedin tem alguns <br/><br/>
   Sou formado em Analise de sistemas e cursando pós graduação em engenharia de software para a industria 4.0, tenho mais de 150 projetos em programação que vou subir aos poucos     aqui no Github, gosto muito de compartilhar desafios e problemas do dia a dia para buscar aprender ainda mais 
   <br/><br/>
-  Sou legal, programador e jogador de video game também ... ahhh e toco alguns intrumentos musicais hehe  ;) 
+  Sou legal, programador e jogador de video game também ... ahhh e toco alguns instrumentos musicais hehe  ;) 
 
